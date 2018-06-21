@@ -27,5 +27,5 @@ elif answer== '2':
 elif answer == '3':
     sys.exit()
 elif answer== '4':
-    print("something happens probably")
+    print("I'm too lazy to write what happens next.")
 input ("Press Enter to Exit")
